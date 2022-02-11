@@ -37,7 +37,7 @@ function myFunction(id1, id2, id3){
             totalBlance.innerText = totalBlanceT - dInputT;
             dTotal.innerText = dTotalT + dInputT ;
         }else{
-            alert('Baaper taka ses...!!!')
+            alert('Baaper Bank a ato taka nai...!!!')
         }
     }else{
         alert('please Enter your valid Amount...!!')
